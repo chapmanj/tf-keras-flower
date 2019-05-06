@@ -6,4 +6,13 @@ https://www.youtube.com/channel/UCrBzGHKmGDcwLFnQGHJ3XYg
 Beginner Introduction to Neural Networks
 https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So
 
-I think there are a few things that still need to be tuned, but it is a working start for those trying to continue with his video series.
+
+
+Here are some handy documentation resources.
+
+TensorFlow documentation
+https://www.tensorflow.org/api_docs/python/tf
+
+Keras Documentation
+http://faroit.com/keras-docs/2.0.1/
+
